@@ -10,7 +10,7 @@ A simple Book Management System designed to manage books, authors, members, and 
 - Register members and allow them to borrow books.
 - Track borrowed books and return deadlines.
 - View overdue books for a specific member.
-- Notify members of overdue books via email.
+
 
 ## Setup Instructions
 
